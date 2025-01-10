@@ -1,0 +1,41 @@
+sic    ,spider          ,end_date   ,price_frequency   
+US5467,EIA             ,2024-11-25,daily             
+US5468,EIA             ,2024-11-25,daily             
+US5469,EIA             ,2024-11-25,daily             
+US5470,EIA             ,2024-11-25,daily             
+US5471,EIA             ,2024-11-25,daily             
+US5472,EIA             ,2024-11-25,daily             
+US5473,EIA             ,2024-11-25,daily             
+US5474,EIA             ,2024-11-25,daily             
+US5475,EIA             ,2024-11-25,daily             
+US5476,EIA             ,2024-11-25,daily             
+US5477,EIA             ,2024-11-25,daily             
+US4962,EMI             ,2024-11-26,daily             
+US4971,EMI             ,2024-11-26,daily             
+US150,USDA_datamart   ,2024-11-27,daily             
+US166,USDA_datamart   ,2024-11-27,daily             
+US3746,USDA_datamart   ,2024-11-27,daily             
+US378,The_jacobsen    ,2024-11-27,daily             
+US381,The_jacobsen    ,2024-11-27,daily             
+US384,The_jacobsen    ,2024-11-27,daily             
+US385,The_jacobsen    ,2024-11-27,daily             
+US386,The_jacobsen    ,2024-11-27,daily             
+US452,Urner_barry_api ,2024-11-27,daily             
+US453,Urner_barry_api ,2024-11-27,daily             
+US454,Urner_barry_api ,2024-11-27,daily             
+US4944,EMI             ,2024-11-27,daily             
+US5100,nan             ,2024-11-27,daily             
+US5159,USDA_Mars       ,2024-11-27,daily             
+US1089,USDA_csv,2024-11-27,weekly
+US5106 ,vesper,2024-11-27,weekly
+US5105,vesper,2024-11-27,weekly
+US5104,vesper,2024-11-27,weekly
+US5089,Sosland,2024-11-27,weekly
+US5098,Sosland,2024-11-27,weekly
+US5136,Sosland,2024-11-27,weekly
+US1037,mintec,2024-11-27,weekly
+US1032,Mintec,2024-11-27,weekly
+US5788,FastmarketRISI,2024-11-27,weekly
+US5799,FastmarketRISI,2024-11-27,weekly
+US5107 ,USDA_ShippingPoint,2024-11-27,daily 
+US5113,USDA_ShippingPoint,2024-11-27,daily 
