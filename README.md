@@ -1,5 +1,5 @@
 # Repository Overview
-This repository provides a pipeline for investigating SICs found in di_sic_status_check. It extracts, processes, and analyzes commodity prices from various data sources, including web scraping, document processing, and interaction with LLMs. The tool handles multiple spiders (data sources), processes extracted information, and evaluates the status of SICs based on price and date consistency.
+This repository provides a pipeline for extracting commodity prices. It extracts, processes, and analyzes commodity prices from various data sources, including web scraping, document processing, and interaction with LLMs. The tool handles multiple spiders (data sources), processes extracted information, and evaluates the status of SICs based on price and date consistency.
 
 ## Features
 * ##### Graph-Based Workflow Execution:
